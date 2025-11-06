@@ -38,8 +38,8 @@
 1.  **Cloner le dépôt et installer les dépendances :**
 
     ```bash
-    git clone [URL_DE_VOTRE_DEPOT]
-    cd my-secure-api
+    git clone git@github.com:Agbadogbe/my-secure-api-.git
+    cd my-secure-api-
     npm install
     ```
 
